@@ -279,10 +279,10 @@ def ____banner____():
 
 \033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝               \033[0;92m
 \033[1;32mYouTube       :Raja Cloner 420
-\033[1;33m  Creator       :RAJA CLONER 420
-\033[1;34mOperated By :RAJA 420
-\033[1;35mStatus           :PAID
-\033[1;36mVersion         :1.3
+\033[1;33m  Creator     :RAJA CLONER 420
+\033[1;34mOperated By   :RAJA 420
+\033[1;35mStatus        :PAID
+\033[1;36mVersion       :1.3
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 ║\33[0;41m      [ WORKING WIFI AND MOBILE DATA ]       \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
@@ -607,4 +607,5 @@ def login_2(uid):
  
 if __name__ == '__main__':
     BNG_71_()
+
  
