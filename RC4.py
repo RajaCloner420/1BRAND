@@ -266,7 +266,7 @@ def ____banner____():
         os.system('cls')
     else:
         os.system('clear')
-    
+    os.system('xdg-open https://youtube.com/@rajacloner420?si=OBZ2xpEB0H73y9Un')
     print("""\033[1;32m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 
@@ -602,4 +602,5 @@ def login_2(uid):
  
 if __name__ == '__main__':
     BNG_71_()
+
  
